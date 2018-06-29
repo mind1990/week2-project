@@ -6,7 +6,6 @@ In our last project, we worked on creating a static landing page. In this projec
 ##### Requirements
 * Use semantic HTML and CSS to create your website. Use your creativity to design and develop your vision for this website.
 * There should be at least three buttons on your website, which represent different categories of items you can buy at the supermarket (for example, a button for cereal, meats, juices).
-* When a category is clicked, your page should populate with at least five images of items related to that category (for example, clicking on the cereal button will show five different types of cereal).
 * When I click on a specific shopping item, the item should be added to my shopping cart. The shopping list will show all of the items that the user has currently selected.
 * Keep your code DRY.
 
@@ -18,6 +17,7 @@ In our last project, we worked on creating a static landing page. In this projec
 * Having trouble attaching event handlers to your shopping list items? When we add event listeners to our DOM objects, they are only added to elements that exist on the page at the point of time that the code runs. How would we add event listeners to elements that are created dynamically? Look at event delegation.
 
 #### Bonus
+* When a category is clicked, your page should populate with at least five images of items related to that category (for example, clicking on the cereal button will show five different types of cereal).
 * Add a button to delete items from our shopping list.
 * Include prices for each shopping item, and update the shopping cart with your grand total. Google the `data` attribute and see how you can take advantage of that to include data related to your HTML.
 * Use jQuery to add beautiful effects and animations to your user interactions.
